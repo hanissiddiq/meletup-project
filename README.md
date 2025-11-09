@@ -71,3 +71,9 @@ Setelah mencapai nol, LCD akan menampilkan:
 Buzzer berbunyi secara berulang sebagai tanda waktu habis.
 
 LED dapat mati atau berkedip bersamaan dengan bunyi buzzer untuk efek dramatis.
+
+![Meletup-project](https://github.com/user-attachments/assets/7b50202f-1f06-41b1-9d8a-50af6cb7b97a)
+<img width="935" height="467" alt="image" src="https://github.com/user-attachments/assets/788caf89-2ca5-4fff-bd70-c39d09909711" />
+<img width="966" height="509" alt="image" src="https://github.com/user-attachments/assets/3354f436-3273-4425-88cf-b2e88e911243" />
+<img width="917" height="515" alt="image" src="https://github.com/user-attachments/assets/3f212422-17c4-4f35-9b1c-e2fcec07bc2e" />
+
